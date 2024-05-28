@@ -1,6 +1,6 @@
 # Time-Series-Forecasting
 ### AR(p) (Auto Regression)
-- The time series is linearly regressed on its own past valuee
+- The time series is linearly regressed on its own past value
 - p is the number of past values included in the AR model
 
 ### MA(q) (Moving Average) 
